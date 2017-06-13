@@ -150,14 +150,18 @@ ul{list-style:none;padding:0;}
 .icons.pricing .column li {
     background: #fff;
     border: 2px solid #333;
+    margin-top: 20px;
 }
 .icons.pricing .column li:nth-child(2) {
     background: #f15a29;
     color: #333;
+    margin-top: 0;
+    padding-bottom: 20px;
 }
 .icons.pricing .column li:nth-child(2) h3 {
     color: #333;
 }
+
 
 /**
  * Footer
